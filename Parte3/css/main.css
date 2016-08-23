@@ -1,0 +1,22 @@
+.UNO {
+	border:1px solid;
+	border-color: #141313;
+	 }
+
+.DOS, .TRES, .CUATRO {
+	width: 25%;
+	height: 100px;
+	float: right;
+					 }
+
+.DOS {
+	background-color: #F1FF50;
+	 }
+
+.TRES {
+	background-color: #4850F6;
+	 }
+
+.CUATRO {
+	background-color: #E81212;
+	 }
