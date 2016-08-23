@@ -20,3 +20,9 @@
 .CUATRO {
 	background-color: #E81212;
 	 }
+
+a {
+	display: block;
+	clear: both;
+
+}
